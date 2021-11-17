@@ -1,0 +1,4 @@
+Before usage change the files with extension ".change" to ".exe"
+setvol.exe.change ---> setvol.exe
+cmdmp3win.exe.change ---> cmdmp3win.exe
+snake.exe.change ---> snake.exe

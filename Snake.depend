@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1621242983 source:c:\users\mike\desktop\programmation\c progs\vanelle\snake\fonctions.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.h"
+
+1619190048 c:\users\mike\desktop\programmation\c progs\vanelle\snake\fonctions.h
+
+1621505007 source:c:\users\mike\desktop\programmation\c progs\vanelle\snake\main.c
+	<stdio.h>
+	<windows.h>
+	"field.h"
+	<time.h>
+	"partie.h"
+	"snake.h"
+
+1621421463 source:c:\users\mike\desktop\programmation\c progs\vanelle\snake\field.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"field.h"
+
+1621425518 c:\users\mike\desktop\programmation\c progs\vanelle\snake\field.h
+
+1621505677 source:c:\users\mike\desktop\programmation\c progs\vanelle\snake\partie.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+
+1621499939 c:\users\mike\desktop\programmation\c progs\vanelle\snake\partie.h
+
+1621506167 c:\users\mike\desktop\programmation\c progs\vanelle\snake\snake.h
+
+1621496302 source:c:\users\mike\desktop\programmation\c progs\vanelle\snake\snake.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<process.h>
+	<unistd.h>
+
+1621421463 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake\field.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"field.h"
+
+1621425518 c:\users\mike\desktop\programmation\c_progs\vanelle\snake\field.h
+
+1621585445 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake\main.c
+	<stdio.h>
+	<windows.h>
+	"field.h"
+	<time.h>
+	"partie.h"
+	"snake.h"
+
+1621499939 c:\users\mike\desktop\programmation\c_progs\vanelle\snake\partie.h
+
+1621547780 c:\users\mike\desktop\programmation\c_progs\vanelle\snake\snake.h
+
+1621583310 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake\partie.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+
+1621586401 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake\snake.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<process.h>
+	<unistd.h>
+
+1621421463 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\field.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"field.h"
+
+1621611394 c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\field.h
+
+1621668312 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\main.c
+	<stdio.h>
+	<windows.h>
+	"field.h"
+	<time.h>
+	"partie.h"
+	"snake.h"
+
+1621499939 c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\partie.h
+
+1621547780 c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\snake.h
+
+1622214946 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\partie.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+
+1621950175 source:c:\users\mike\desktop\programmation\c_progs\vanelle\snake1\snake.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"field.h"
+	"partie.h"
+	"snake.h"
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<process.h>
+	<unistd.h>
+
