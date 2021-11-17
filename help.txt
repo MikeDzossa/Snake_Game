@@ -1,0 +1,16 @@
+----------------------------------------------------------
+		     Instructions
+----------------------------------------------------------
+
+1. You have 3 lives. You lose one everytime you die.
+2. You die when the snake bites the walls or his body.
+3. The snake increases in size as he bites food.
+4. Once all the lives are lost, it's "GAME OVER".
+5. To pause the game, press any key different from the
+   direction keys.
+
+----------------------------------------------------------
+		      Key Mapping
+----------------------------------------------------------
+       Left = "Left Arrow"    Right = "Right Arrow"
+           Up = "Up Arrow"    Left = "Down Arrow"
